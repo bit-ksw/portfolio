@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/styles.chunk.css","sources":["webpack:///./styles/main.scss"],"sourcesContent":[".custom {\n  color: orange; }\n  .custom .custom-title {\n    color: pink; }\n"],"mappings":"AAAA;AACA;AACA;AACA;;","sourceRoot":""}
